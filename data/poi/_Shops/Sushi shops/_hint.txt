@@ -1,0 +1,1 @@
+nwr["amenity"="fast_food"]["cuisine"="sushi"]
